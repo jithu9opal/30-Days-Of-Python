@@ -2,7 +2,7 @@
 
   <strong>Learn with Asabeneh by joining the upcoming [<em>CODING BOOTCAMP</em>](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform) </strong>
 
-|# Day | Topics                                                    |
+|# Day | Topics                                                    
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
 | 02  |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
